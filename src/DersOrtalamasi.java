@@ -1,26 +1,26 @@
 import java.util.Scanner ;
 public class DersOrtalamasi {
     public static void main(String[] args) {
-        Scanner imput = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         float mat,fizik,kimya,turkce,tarih,muzik,ortalama,sonuc;
 
         System.out.print("Lütfen Matematik Notunuzu giriniz : ");
-        mat = imput.nextFloat();
+        mat = input.nextFloat();
 
         System.out.print("Lütfen Fizik Notunuzu giriniz : ");
-        fizik = imput.nextFloat();
+        fizik = input.nextFloat();
 
         System.out.print("Lütfen Kimya Notunuzu giriniz : ");
-        kimya = imput.nextFloat();
+        kimya = input.nextFloat();
 
         System.out.print("Lütfen Türkçe Notunuzu giriniz : ");
-        turkce = imput.nextFloat();
+        turkce = input.nextFloat();
 
         System.out.print("Lütfen Tarih Notunuzu giriniz : ");
-        tarih = imput.nextFloat();
+        tarih = input.nextFloat();
 
         System.out.print("Lütfen Müzik Notunuzu giriniz : ");
-        muzik = imput.nextFloat();
+        muzik = input.nextFloat();
 
         ortalama = (mat + fizik + kimya + turkce + tarih + muzik)/6 ;
         sonuc = ortalama ;
