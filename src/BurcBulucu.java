@@ -20,7 +20,7 @@ public class BurcBulucu
             {
                 System.out.print("Oğlak Burcusunuz");
             }
-            else if (day > 21)
+            else if (day < 32)
             {
                 System.out.print("Kova Burcusunuz");
             }
@@ -33,7 +33,7 @@ public class BurcBulucu
             {
                 System.out.print("Kova Burcusunuz");
             }
-            else if (day > 19 && day < 32)
+            else if (day < 32)
             {
                 System.out.print("Balık Burcusunuz");
             }
@@ -46,7 +46,7 @@ public class BurcBulucu
             {
                 System.out.print("Balık Burcusunuz");
             }
-            else if (day > 20 && day < 32)
+            else if (day < 32)
             {
                 System.out.print("Koç Burcusunuz");
             }
@@ -59,7 +59,7 @@ public class BurcBulucu
             {
                 System.out.print("Koç Burcusunuz");
             }
-            else if (day > 20 && day < 32)
+            else if (day < 32)
             {
                 System.out.print("Boğa Burcusunuz");
             }
@@ -72,7 +72,7 @@ public class BurcBulucu
             {
                 System.out.print("Boğa Burcusunuz");
             }
-            else if (day > 21 && day < 32)
+            else if (day < 32)
             {
                 System.out.print("İkizler Burcusunuz");
             }
@@ -85,7 +85,7 @@ public class BurcBulucu
             {
                 System.out.print("İkizler Burcusunuz");
             }
-            else if (day > 22 && day < 32)
+            else if (day < 32)
             {
                 System.out.print("Yengeç Burcusunuz");
             }
@@ -98,7 +98,7 @@ public class BurcBulucu
             {
                 System.out.print("Yengeç Burcusunuz");
             }
-            else if (day > 22 && day < 32)
+            else if (day < 32)
             {
                 System.out.print("Aslan Burcusunuz");
             }
@@ -111,7 +111,7 @@ public class BurcBulucu
             {
                 System.out.print("Aslan Burcusunuz");
             }
-            else if (day > 22  && day < 32)
+            else if (day < 32)
             {
                 System.out.print("Başak Burcusunuz");
             }
@@ -124,7 +124,7 @@ public class BurcBulucu
             {
                 System.out.print("Başak Burcusunuz");
             }
-            else if (day >22 && day < 32)
+            else if (day < 32)
             {
                 System.out.print("Terazi Burcusunuz");
             }
@@ -137,7 +137,7 @@ public class BurcBulucu
             {
                 System.out.print("Terazi Burcusunuz");
             }
-            else if (day > 22 && day < 32)
+            else if (day < 32)
             {
                 System.out.print("Akrep Burcusunuz");
             }
@@ -150,7 +150,7 @@ public class BurcBulucu
             {
                 System.out.print("Akrep Burcusunuz");
             }
-            else if (day > 21 && day < 32)
+            else if (day < 32)
             {
                 System.out.print("Yay Burcusunuz");
             }
@@ -163,7 +163,7 @@ public class BurcBulucu
             {
                 System.out.print("Yay Burcusunuz");
             }
-            else if (day > 21 && day < 32)
+            else if (day < 32)
             {
                 System.out.print("Oğlak Burcusunuz");
             }
