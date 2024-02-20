@@ -24,6 +24,7 @@ public class BurcBulucu
             {
                 System.out.print("Kova Burcusunuz");
             }
+
         }
 
 
